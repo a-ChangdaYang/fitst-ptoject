@@ -1,2 +1,4 @@
-# fitst-ptoject
-nihao wo shi xinren 
+
+#fitst-ptoject
+hello  work
+nihao wo shi xinren
